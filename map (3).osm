@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (3793761 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="14.5952330" minlon="121.0165310" maxlat="14.5955760" maxlon="121.0168560"/>
+ <node id="5429104568" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:36Z" user="Rally" uid="24338" lat="14.5955318" lon="121.0165652"/>
+ <node id="5429104569" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:36Z" user="Rally" uid="24338" lat="14.5954289" lon="121.0165199"/>
+ <node id="5429104570" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:36Z" user="Rally" uid="24338" lat="14.5954749" lon="121.0164086"/>
+ <node id="5429104571" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:36Z" user="Rally" uid="24338" lat="14.5955777" lon="121.0164539"/>
+ <node id="5429104580" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:37Z" user="Rally" uid="24338" lat="14.5955230" lon="121.0163294"/>
+ <node id="5429104581" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:37Z" user="Rally" uid="24338" lat="14.5954438" lon="121.0162538"/>
+ <node id="5429104582" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:37Z" user="Rally" uid="24338" lat="14.5952129" lon="121.0165123"/>
+ <node id="5429104583" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:37Z" user="Rally" uid="24338" lat="14.5952921" lon="121.0165879"/>
+ <node id="5429104584" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:37Z" user="Rally" uid="24338" lat="14.5951684" lon="121.0165656"/>
+ <node id="5429104585" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:37Z" user="Rally" uid="24338" lat="14.5947689" lon="121.0170128"/>
+ <node id="5429104586" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:37Z" user="Rally" uid="24338" lat="14.5952477" lon="121.0166412"/>
+ <node id="5429104587" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:37Z" user="Rally" uid="24338" lat="14.5948482" lon="121.0170884"/>
+ <node id="7387973196" visible="true" version="1" changeset="83338433" timestamp="2020-04-10T05:22:50Z" user="mikko_tamura" uid="2258022" lat="14.5955223" lon="121.0165813"/>
+ <node id="7387973197" visible="true" version="1" changeset="83338433" timestamp="2020-04-10T05:22:50Z" user="mikko_tamura" uid="2258022" lat="14.5954043" lon="121.0168601"/>
+ <node id="7387973198" visible="true" version="1" changeset="83338433" timestamp="2020-04-10T05:22:50Z" user="mikko_tamura" uid="2258022" lat="14.5952958" lon="121.0168111"/>
+ <node id="7387973199" visible="true" version="1" changeset="83338433" timestamp="2020-04-10T05:22:50Z" user="mikko_tamura" uid="2258022" lat="14.5954138" lon="121.0165323"/>
+ <way id="563367620" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:37Z" user="Rally" uid="24338">
+  <nd ref="5429104571"/>
+  <nd ref="5429104568"/>
+  <nd ref="5429104569"/>
+  <nd ref="5429104570"/>
+  <nd ref="5429104571"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="563367623" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:37Z" user="Rally" uid="24338">
+  <nd ref="5429104583"/>
+  <nd ref="5429104582"/>
+  <nd ref="5429104581"/>
+  <nd ref="5429104580"/>
+  <nd ref="5429104583"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="563367624" visible="true" version="1" changeset="56580580" timestamp="2018-02-22T13:47:37Z" user="Rally" uid="24338">
+  <nd ref="5429104587"/>
+  <nd ref="5429104585"/>
+  <nd ref="5429104584"/>
+  <nd ref="5429104586"/>
+  <nd ref="5429104587"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="790257854" visible="true" version="1" changeset="83338433" timestamp="2020-04-10T05:22:50Z" user="mikko_tamura" uid="2258022">
+  <nd ref="7387973196"/>
+  <nd ref="7387973197"/>
+  <nd ref="7387973198"/>
+  <nd ref="7387973199"/>
+  <nd ref="7387973196"/>
+  <tag k="building" v="school"/>
+ </way>
+</osm>
