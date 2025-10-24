@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>openstreetmap_elements_via_overpass_api___flattened</name>
+  <Placemark id="openstreetmap_elements_via_overpass_api___flattened.1">
+      <Point><coordinates>81.661905,25.469819</coordinates></Point>
+  </Placemark>
+  <Placemark id="openstreetmap_elements_via_overpass_api___flattened.2">
+      <Point><coordinates>80.801665,25.916752</coordinates></Point>
+  </Placemark>
+  <Placemark id="openstreetmap_elements_via_overpass_api___flattened.3">
+      <Point><coordinates>80.749339,25.958853</coordinates></Point>
+  </Placemark>
+  <Placemark id="openstreetmap_elements_via_overpass_api___flattened.4">
+      <Point><coordinates>81.490348,25.559788</coordinates></Point>
+  </Placemark>
+  <Placemark id="openstreetmap_elements_via_overpass_api___flattened.5">
+      <Point><coordinates>81.320152,25.648888</coordinates></Point>
+  </Placemark>
+  <Placemark id="openstreetmap_elements_via_overpass_api___flattened.6">
+      <Point><coordinates>80.97692,25.826671</coordinates></Point>
+  </Placemark>
+  <Placemark id="openstreetmap_elements_via_overpass_api___flattened.7">
+      <Point><coordinates>81.101317,25.762204</coordinates></Point>
+  </Placemark>
+  <Placemark id="openstreetmap_elements_via_overpass_api___flattened.8">
+      <Point><coordinates>81.825958,25.445432</coordinates></Point>
+  </Placemark>
+  <Placemark id="openstreetmap_elements_via_overpass_api___flattened.9">
+      <Point><coordinates>81.829754,25.445352</coordinates></Point>
+  </Placemark>
+  <Placemark id="openstreetmap_elements_via_overpass_api___flattened.10">
+      <Point><coordinates>81.826161,25.445499</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
